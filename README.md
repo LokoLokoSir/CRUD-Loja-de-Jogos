@@ -40,20 +40,35 @@ javac Jogo.java JogoController.java Main.java
 ## Print do Console
 
 ID: 0 | Nome: Hollow Knight | Descrição: Uma aventura de ação épica em um vasto reino arruinado de insetos e heróis. | Preço: R$ 46,99 | Gêneros: Metroidvania, Soulslike, Plataforma
+
 ID: 1 | Nome: Stardew Valley | Descrição: Será que você vai aprender a viver da terra, a transformar esse matagal em um próspero lar? | Preço: R$ 24,99 | Gêneros: Simulador Rural, RPG
+
 ID: 2 | Nome: Hades | Descrição: Desafie o deus dos mortos enquanto você batalha para sair do Submundo. | Preço: R$ 73,99 | Gêneros: Roguelike, Hack and Slash
+
 Digite o ID do jogo que deseja atualizar:
+
 1
+
 Digite qual propriedade do jogo deseja atualizar (nome, descricao, preco, generos):
+
 generos
+
 Escreva a atualização:
+
 Simulador Rural, RPG, Tranquilo
+
 ID: 0 | Nome: Hollow Knight | Descrição: Uma aventura de ação épica em um vasto reino arruinado de insetos e heróis. | Preço: R$ 46,99 | Gêneros: Metroidvania, Soulslike, Plataforma
+
 ID: 1 | Nome: Stardew Valley | Descrição: Será que você vai aprender a viver da terra, a transformar esse matagal em um próspero lar? | Preço: R$ 24,99 | Gêneros: Simulador Rural, RPG, Tranquilo
+
 ID: 2 | Nome: Hades | Descrição: Desafie o deus dos mortos enquanto você batalha para sair do Submundo. | Preço: R$ 73,99 | Gêneros: Roguelike, Hack and Slash
+
 Digite o ID do jogo que deseja deletar:
+
 2
+
 ID: 0 | Nome: Hollow Knight | Descrição: Uma aventura de ação épica em um vasto reino arruinado de insetos e heróis. | Preço: R$ 46,99 | Gêneros: Metroidvania, Soulslike, Plataforma
+
 ID: 1 | Nome: Stardew Valley | Descrição: Será que você vai aprender a viver da terra, a transformar esse matagal em um próspero lar? | Preço: R$ 24,99 | Gêneros: Simulador Rural, RPG, Tranquilo
 
 ## Autor
